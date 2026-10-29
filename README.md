@@ -21,6 +21,8 @@ sql-data-warehouse-project/
 ## 🏗️ Data Architecture
 
 This Project has Three Data Layers which includes **Bronze Layer**, **Silver Layer**, **Gold Layer**
+
+
 ![Data Architecture](docs/DataWarehouse_Architecture.png)
 
 1. **Bronze Layer**: This Layer stores raw data as-is from the source systems. Data is ingested from CSV Files into SQL Server Database.
